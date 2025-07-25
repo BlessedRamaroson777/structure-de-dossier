@@ -1,0 +1,11 @@
+mon_theme/
+    templates/
+        404.html
+        archive.html
+        index.html
+        singular.html
+    README.txt
+    functions.php
+    screenshot.png
+    style.css
+    theme.json
